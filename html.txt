@@ -1,0 +1,119 @@
+ 
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stra¿ Po¿arna - Hobby</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            text-align: center;
+        }
+        header {
+            background-color: #d32f2f;
+            color: white;
+            padding: 15px;
+            font-size: 24px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        .gallery img {
+            width: 100%;
+            max-width: 400px;
+            margin: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Stra¿ Po¿arna jako Hobby ??
+    </header>
+    <div class="container">
+        <h2>Dlaczego warto interesowaæ siê stra¿¹ po¿arn¹?</h2>
+        <p>.<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stra¿ Po¿arna - Hobby</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            text-align: center;
+        }
+        header {
+            background-color: #d32f2f;
+            color: white;
+            padding: 15px;
+            font-size: 24px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        .gallery img {
+            width: 100%;
+            max-width: 400px;
+            margin: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Stra¿ Po¿arna jako Hobby ??
+    </header>
+    <div class="container">
+        <h2>Dlaczego warto interesowaæ siê stra¿¹ po¿arn¹?</h2>
+        <p>Stra¿ po¿arna jako hobby
+Stra¿ po¿arna to nie tylko zawód, ale tak¿e pasja, któr¹ mo¿na rozwijaæ na wiele sposobów. Osoby interesuj¹ce siê stra¿¹ po¿arn¹ czêsto anga¿uj¹ siê w dzia³alnoœæ ochotniczych stra¿y po¿arnych (OSP), kolekcjonuj¹ sprzêt gaœniczy, ucz¹ siê technik ratowniczych lub œledz¹ akcje stra¿ackie.
+
+Formy realizowania hobby zwi¹zane ze stra¿¹ po¿arn¹:
+Dzia³alnoœæ w OSP – Wst¹pienie do Ochotniczej Stra¿y Po¿arnej to œwietny sposób na aktywne uczestnictwo w akcjach ratowniczych, szkoleniach i æwiczeniach. To tak¿e okazja do integracji z innymi pasjonatami i zdobywania cennego doœwiadczenia.
+
+Kolekcjonowanie sprzêtu stra¿ackiego – Wiele osób zbiera stare he³my, mundury, syreny alarmowe, zabytkowe wozy stra¿ackie czy inne elementy wyposa¿enia.
+
+Fotografowanie akcji stra¿ackich – Niektórzy pasjonaci zajmuj¹ siê dokumentowaniem dzia³añ stra¿y po¿arnej, tworz¹c galerie zdjêæ i filmy z æwiczeñ lub realnych interwencji.
+
+Modelarstwo stra¿ackie – Budowanie modeli wozów stra¿ackich, dioram czy kolekcjonowanie miniatur pojazdów po¿arniczych to ciekawe hobby dla fanów stra¿y.
+
+Œledzenie historii po¿arnictwa – Badanie dawnych technik gaœniczych, rozwoju stra¿y po¿arnej oraz odwiedzanie muzeów stra¿ackich to sposób na pog³êbianie wiedzy o tym zawodzie.
+
+Sport i zawody stra¿ackie – Niektóre osoby bior¹ udzia³ w zawodach po¿arniczych, np. w zawodach CTIF, Firefighter Combat Challenge czy biegach w pe³nym umundurowaniu.
+
+Hobby zwi¹zane ze stra¿¹ po¿arn¹ to nie tylko adrenalina, ale tak¿e okazja do zdobycia cennych umiejêtnoœci, które mog¹ pomóc w ¿yciu codziennym. ????.</p>
+        <h3>Galeria</h3>
+        <div class="gallery">
+            <img src="https://source.unsplash.com/400x300/?firefighter" alt="Stra¿ak">
+            <img src="https://source.unsplash.com/400x300/?fire-truck" alt="Wóz stra¿acki">
+        </div>
+    </div>
+</body>
+</html>
+</p>
+        <h3>Galeria</h3>
+        <div class="gallery">
+            <img src="https://source.unsplash.com/400x300/?firefighter" alt="Stra¿ak">
+            <img src="https://source.unsplash.com/400x300/?fire-truck" alt="Wóz stra¿acki">
+        </div>
+    </div>
+</body>
+</html>
