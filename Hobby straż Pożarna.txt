@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Straż Pożarna jako Hobby</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            text-align: center;
+        }
+        header {
+            background-color: #d32f2f;
+            color: white;
+            padding: 15px;
+            font-size: 24px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            text-align: left;
+        }
+        h2, h3 {
+            color: #d32f2f;
+        }
+        .gallery img {
+            width: 100%;
+            max-width: 400px;
+            margin: 10px;
+            border-radius: 5px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #d32f2f;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Straż Pożarna jako Hobby
+    </header>
+    <div class="container">
+        <h2>Dlaczego warto interesować się strażą pożarną?</h2>
+        <p><span class="highlight">Straż pożarna</span> to nie tylko zawód, ale także pasja, którą można rozwijać na wiele sposobów. Osoby interesujące się strażą pożarną często angażują się w działalność <span class="highlight">Ochotniczej Straży Pożarnej (OSP)</span>, kolekcjonują sprzęt gaśniczy, uczą się technik ratowniczych lub śledzą akcje strażackie.</p>
+        
+        <h3>Formy realizowania hobby związane ze strażą pożarną:</h3>
+        <ul>
+            <li><span class="highlight">Działalność w OSP</span> – Wstąpienie do Ochotniczej Straży Pożarnej to świetny sposób na uczestnictwo w akcjach ratowniczych, szkoleniach i ćwiczeniach.</li>
+            <li><span class="highlight">Kolekcjonowanie sprzętu strażackiego</span> – Zbieranie hełmów, mundurów, syren alarmowych czy zabytkowych wozów strażackich.</li>
+            <li><span class="highlight">Fotografowanie akcji strażackich</span> – Dokumentowanie działań straży pożarnej poprzez zdjęcia i filmy.</li>
+            <li><span class="highlight">Modelarstwo strażackie</span> – Budowanie modeli wozów strażackich i dioram.</li>
+            <li><span class="highlight">Śledzenie historii pożarnictwa</span> – Badanie dawnych technik gaśniczych i odwiedzanie muzeów strażackich.</li>
+            <li><span class="highlight">Sport i zawody strażackie</span> – Udział w zawodach CTIF, Firefighter Combat Challenge czy biegach w pełnym umundurowaniu.</li>
+        </ul>
+        <p>Hobby związane ze strażą pożarną to nie tylko <span class="highlight">adrenalina</span>, ale także okazja do zdobycia cennych umiejętności przydatnych w życiu codziennym.</p>
+        
+        <h3>Galeria</h3>
+        <div class="gallery">
+            <img src="https://source.unsplash.com/400x300/?firefighter" alt="Strażak">
+            <img src="https://source.unsplash.com/400x300/?fire-truck" alt="Wóz strażacki">
+            <img src="images (1).jpeg" alt="OSP Brzóza Królewska">
+        </div>
+    </div>
+</body>
+</html>
+ 
+ 
